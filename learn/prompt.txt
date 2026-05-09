@@ -1,0 +1,5 @@
+s01
+Create a file called hello.py that prints "Hello, World!"
+
+s02
+Read the file requirements.txt
