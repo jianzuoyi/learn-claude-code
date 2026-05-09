@@ -3,3 +3,9 @@ Create a file called hello.py that prints "Hello, World!"
 
 s02
 Read the file requirements.txt
+
+s03
+Refactor the file hello.py: add type hints, docstrings, and a main guard
+
+s04
+Use a task to create a new module, then verify it from here
