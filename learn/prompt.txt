@@ -13,3 +13,7 @@ Use a task to create a new module, then verify it from here
 s05
 What skills are available?
 I need to do a code review -- load the relevant skill first
+
+s06
+Read every Python file in the agents/ directory one by one
+Use the compact tool to manually compress the conversation
