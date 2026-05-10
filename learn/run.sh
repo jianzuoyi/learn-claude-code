@@ -5,4 +5,5 @@ export PATH=/pub/apps/claude-env/bin:$PATH
 #python s03_todo_write.py
 #python s04_subagent.py
 #python s05_skill_loading.py
-python s06_context_compact.py
+#python s06_context_compact.py
+python s07_task_system.py

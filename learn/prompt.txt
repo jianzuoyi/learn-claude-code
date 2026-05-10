@@ -17,3 +17,8 @@ I need to do a code review -- load the relevant skill first
 s06
 Read every Python file in the agents/ directory one by one
 Use the compact tool to manually compress the conversation
+
+s07
+Create 3 tasks: "Setup project", "Write code", "Write tests". Make them depend on each other in order.
+List all tasks and show the dependency graph
+Complete task 1 and then list tasks to see task 2 unblocked
