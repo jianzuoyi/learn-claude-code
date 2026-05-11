@@ -7,4 +7,8 @@ export PATH=/pub/apps/claude-env/bin:$PATH
 #python s05_skill_loading.py
 #python s06_context_compact.py
 #python s07_task_system.py
-python s08_background_tasks.py
+#python s08_background_tasks.py
+#python s09_agent_teams.py
+#python s10_team_protocols.py
+#python s11_autonomous_agents.py
+python s12_worktree_task_isolation.py
